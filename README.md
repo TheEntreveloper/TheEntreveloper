@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheEntreveloper, an Entrepreneur and Software Developer.
-- 👀 In terms of software development I’m interested in Flutter, VueJs, Java, PHP, Spring framework, CodeIgniter, AI, among other.
+- 👀 In terms of software development I’m interested in Flutter, VueJs, Java, PHP, Spring framework, CodeIgniter, AI, Blockchain among other.
 - 🌱 I’m currently (May 2022) learning more about Flutter
 - 💞️ I’m looking to collaborate on interesting projects where I can use my skills.
 
