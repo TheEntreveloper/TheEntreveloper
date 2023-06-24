@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheEntreveloper, an Entrepreneur and Software Developer.
-- 👀 In terms of software development I’m interested in Flutter, VueJs, Java, PHP, Spring framework, CodeIgniter, AI, Blockchain among other.
-- 🌱 I’m currently (May 2022) learning more about Flutter
-- 💞️ I’m looking to collaborate on interesting projects where I can use my skills.
+- 👀 In terms of software development I’m interested in Java, PHP, Spring framework, CodeIgniter, Flutter, VueJs, AI, Blockchain among other.
+- 💞️ I’m happy to get involved on interesting projects where I can use my skills.
 
 <!---
 TheEntreveloper/TheEntreveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
